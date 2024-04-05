@@ -1,0 +1,8 @@
+1. This is a basic keylogger program script
+2. To run the program requirements* should be met
+3. If to be used on computer supporting ios replace 'ctrl_r' with 'cmd_r'
+4. No modifications to be made while using windows
+5. All the key presses will be stored in keystroke file inside logs folder
+6. Remember to stop program manually before exiting
+
+########### FOR EDUCATIONAL PURPOSES ONLY ##############
